@@ -1,0 +1,74 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	margin: 0;
+}
+title, #navbar, p, h1, footer{
+	font-family: 'Montserrat', sans-serif;
+}
+#title{
+	text-align: left;
+	color: white;
+	display: inline-block;
+	text-decoration: none;
+}
+#navbar{
+  	background-color: #150300;
+	margin: 15px;
+	width:100%;
+	overflow: hidden;
+	text-transform: uppercase;
+	padding: 10px;
+	list-style-type: none;
+	display: inline-block;
+	border-bottom: 3px solid transparent;
+}
+
+#navbar a{
+	float: right;
+	color: white;
+	text-decoration: none;
+}
+
+#navbar a:hover {
+  border-bottom: 2px solid white;
+}
+
+.active{
+  border-bottom: 1px solid white;
+}
+
+.column {
+  float: left;
+  width: 50%;
+	display:inline-block;
+}
+
+h2{
+	font-family: 'Marck Script', cursive;
+	font-size: 40px;
+}
+h2{
+	color: #EF7A24;
+}
+
+h2, h1, p,star{
+	text-align: center;
+}
+
+p{
+	color: #7D7C7C;
+}
+
+#footer{
+  	background-color: #150300;
+	margin: 15px;
+	width:100%;
+	overflow: hidden;
+	padding: 10px;
+	list-style-type: none;
+	display: inline-block;
+	border-bottom: 3px solid transparent;
+	color: white;
+	text-decoration: none;
+}
