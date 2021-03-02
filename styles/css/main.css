@@ -39,7 +39,6 @@ title, #navbar, p, h1, footer{
 }
 
 .column {
-  float: left;
   width: 50%;
 	display:inline-block;
 }
