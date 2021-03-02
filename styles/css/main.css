@@ -3,9 +3,6 @@
 body {
 	margin: 0;
 }
-title, #navbar, p, h1, footer{
-	font-family: 'Montserrat', sans-serif;
-}
 #title{
 	text-align: left;
 	color: white;
@@ -43,21 +40,7 @@ title, #navbar, p, h1, footer{
 	display:inline-block;
 }
 
-h2{
-	font-family: 'Marck Script', cursive;
-	font-size: 40px;
-}
-h2{
-	color: #EF7A24;
-}
 
-h2, h1, p,star{
-	text-align: center;
-}
-
-p{
-	color: #7D7C7C;
-}
 
 #footer{
   	background-color: #150300;
